@@ -1,0 +1,49 @@
+Pokemon Team
+Level:
+Name:
+HP:
+Attack:
+Defense:
+Sp. Attack:
+Sp. Defense: 
+Speed:
+Ability:
+Exp: 
+Nature:
+Type one:
+Type two:
+Gender:
+Options
+Full Screen view
+Mute
+Save
+Changes may not take effect until you restart.
+Pokenet Help
+Pokemon Universe/n/nKey Bindings:/n- Toggle Chat: C /n- Chat/Use: E or Spacebar/n
+- Walk: Arrow keys or WASD keys/n/n
+Interact with other players: Right Click on a player /n/n
+Commands:/n
+/local =  chat locally /n/n
+For more information, go to PokemonUniverse.online
+Chat: Global
+You must accept Terms of Service (ToS) before registering.
+Male
+Female
+None
+Lv. 
+PvP Battles/Trades
+Cancel
+Accept
+Decline
+Send Offer
+Your Offer:
+Their Offer:
+test
+Waiting...
+Send a Request
+Requests Received
+Trade: 
+Money only
+Battle
+Trade
+Disable Surrounding Maps
