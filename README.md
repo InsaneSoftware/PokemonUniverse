@@ -1,4 +1,4 @@
-# Pokemon Universe
+# Pokemon Universez
 The public client of Pokemon Universe
 
 **Changelog:**
